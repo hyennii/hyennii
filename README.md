@@ -12,6 +12,4 @@
 
 <br />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leemember&show_icons=true&theme=dracula)
-
-## About me
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyennii&show_icons=true&theme=dracula)

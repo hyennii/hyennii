@@ -2,6 +2,7 @@
 
 <br />
 <br />
+
 ## 🌵Technical Stack🌵
 <div align="center">
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
@@ -14,4 +15,5 @@
 
 <br />
 <br />
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyennii&show_icons=true&theme=dracula)

@@ -17,4 +17,4 @@
 <br />
 <br />
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hyennii)](https://github.com/anuraghazra/github-readme-stats)</div>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hyennii&show_icons=true&theme=buefy)</div>

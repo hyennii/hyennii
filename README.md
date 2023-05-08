@@ -14,9 +14,12 @@
 <img src="https://img.shields.io/badge/phpStorm-000000?style=flat-square&logo=phpStorm&logoColor=white"/>
 <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" width="70">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" width="70">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" width="63">
 
 
 <br />
 <br />
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hyennii&show_icons=true&theme=buefy)</div>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hyennii&show_icons=true&theme=vue)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyennii&layout=compact&theme=vue-dark)</div>

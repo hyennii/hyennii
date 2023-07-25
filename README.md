@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=%20hyewon(!important);&fontSize=70&animation=fadeIn&desc=_Publisher&descSize=25&descAlign=80&descAlignY=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=%Hyewon%20Jeon&fontSize=70&animation=fadeIn&descSize=25&descAlign=80&descAlignY=70)
 
 <br />
 <br />

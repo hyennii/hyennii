@@ -40,19 +40,19 @@
 ## 🚗Contact🚗
 
 <a href="https://www.instagram.com/hye__nnii/" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="72">
+    <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" >
 </a>
 
 <br>
 
 <a href="mailto:jhyewon4170@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=black" width="50">
+    <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=black">
 </a>
 
 <br>
 
 <a href="https://velog.io/@hyennii/posts" target="_blank">
-    <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=black" width="50">
+    <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=black">
 </a>
 
 --------------------------------------------

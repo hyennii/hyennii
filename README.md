@@ -1,8 +1,10 @@
-<strong style="text-align:center;font-size:33px;display:block;">Hyewon Jeon</strong>
-
-<p style="text-align:center;font-size:16px">Hi, there😊</span>
 
 <div align="center">
+
+### Hyewon Jeon
+
+##### Hi, there😊
+
 
 <br>
 
@@ -40,7 +42,7 @@
 ## 🚗Contact🚗
 
 <a href="https://www.instagram.com/hye__nnii/" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="80">
+    <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="90">
 </a>
 
 <br>
